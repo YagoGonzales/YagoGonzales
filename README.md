@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @YagoGonzales
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, bem vindo ao meu perfil 😃
+Meu nome é _Yago Gonzales_
+- Estou no inicio da jornada de programação
+- Sou um estudante
+- programar é um hobby
+# Você pode entrar em contato através do email 📫 
+yagogonzales05@gmail.com
 
-<!---
-YagoGonzales/YagoGonzales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+yagogonzales05@hotmail.com
+#
+![](https://media1.tenor.com/m/fMYXEhF1u5YAAAAC/meliodas-the-seven-deadly-sins.gif)
