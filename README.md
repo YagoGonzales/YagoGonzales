@@ -1,5 +1,5 @@
 # Olá, bem vindo ao meu perfil 😃
-Meu nome é _Yago Gonzales_
+Meu nome é _Yago Gonzales_, um estudante de _Engenharia da Computação_
 - Estou no inicio da jornada de programação
 - Sou um estudante
 - programar é um hobby
